@@ -61,7 +61,7 @@ body {
     width: 100%;
     justify-content: space-between;
     height: 100vh;
-    background: url(/static/images/bike.jpg) no-repeat;
+    background: url("coat.png") no-repeat;
     /* background-color: rgb(7, 17, 49); */
     background-size: cover;
     background-position: center;
