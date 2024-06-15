@@ -14,4 +14,4 @@ This is a static portfolio website hosted on GitHub Pages.
 
 ## How to View
 
-You can view the website by navigating to `https://yourusername.github.io/my-static-site/`.
+You can view the website by navigating to `https://podishettirakesh.github.io/Portfolio/`.
