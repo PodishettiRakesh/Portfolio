@@ -278,19 +278,19 @@ section{
 }
 
 .progress-line.html span{
-    width: 90%;
+    width: 80%;
 }
 .progress-line.css span{
-    width: 60%;
+    width: 75%;
 }
 .progress-line.javascript span{
-    width: 85%;
+    width: 60%;
 }
 .progress-line.python span{
-    width: 50%;
+    width: 85%;
 }
 .progress-line.react span{
-    width: 75%;
+    width: 50%;
 }
 .progress-line span::after{
     position: absolute;
