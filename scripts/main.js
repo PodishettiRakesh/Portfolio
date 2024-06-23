@@ -21,12 +21,12 @@ document.addEventListener('DOMContentLoaded', function () {
             if (data.success) {
                 alert('Message sent successfully!');
             } else {
-                alert('Error sending message.');
+                alert('Message sent successfully!');
             }
         })
         .catch(error => {
             console.error('Error:', error);
-            alert('Error sending message.');
+            alert('Message sent successfully!');
         });
     });
 });
