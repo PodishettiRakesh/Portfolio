@@ -69,11 +69,25 @@ body {
     display: flex;
     align-items: center;
     padding: 70px 10% 0;
+    flex-wrap: wrap;
 
 }
 
 .home-content {
-    max-width: 600px;
+    flex:1;
+    max-width: 650px;
+}
+
+.logo-image {
+    flex: 1; /* Take up available space */
+    text-align: right; /* Align image to the right */
+    min-width: 300px;
+}
+
+.logo-image img {
+    max-width: 900%; /* Make sure image is responsive */
+    height: auto; /* Maintain aspect ratio */
+    max-height: 400px; /* Optional: Limit the height of the image */
 }
 
 .home-content h3 {
