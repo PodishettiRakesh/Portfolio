@@ -62,7 +62,7 @@ body {
     justify-content: space-between;
     height: 100vh;
     /* url(/static/images/bike.jpg) no-repeat; */
-    background: url("../images/coat.png") no-repeat;
+    /* background: url("../images/coat.png") no-repeat; */
     /* background-color: rgb(7, 17, 49); */
     background-size: cover;
     background-position: center;
@@ -175,10 +175,11 @@ body {
 
 .about-img img{
     padding-bottom: 20%;
-    max-width: 630px;
+    max-width: 600px;
     height: auto;
-    width: 100%;
+    width: 250%;
     border-radius: 8px;
+    margin: 0 auto; 
 
 }
 
