@@ -13,7 +13,7 @@ body {
 }
 
 .header {
-    position: 'fixed';
+    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
@@ -683,8 +683,8 @@ section{
     opacity: 0;
     animation: slideTop 1s ease forwards;
     animation-delay: 2s;
-    /* box-shadow: 0 0 0 #0ef,
-    0 0 2 #0ef; */
+    box-shadow: 0 0 0 #0ef,
+    0 0 2 #0ef;
 } 
 
 .contact-form form .send:hover {
