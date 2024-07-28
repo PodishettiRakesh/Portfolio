@@ -470,8 +470,10 @@ section{
 
 /*Latest projects  */
 .main-text{
-    padding-top: 130px;
+    padding-top: 10px;
     margin-top: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .main-text h2{
