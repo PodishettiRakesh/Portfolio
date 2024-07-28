@@ -50,6 +50,7 @@ body {
     opacity: 0;
     animation: slideTop .5s ease forwards;
     animation-delay: calc(.2s * var(--i));
+    background-attachment: fixed;
 }
 
 .navbar a:hover {
@@ -170,14 +171,14 @@ body {
     opacity: 0;
     animation: slideTop 1s ease forwards;
     animation-delay: 2s;
-    box-shadow: 0 0 5px #0ef,
-        0 0 25px #0ef
+    box-shadow: 0 0 0px #0ef,
+        0 0 0px #0ef;
 }
 
 .btn-box:hover {
     box-shadow: 0 0 5px cyan,
-        0 0 25px cyan, 0 0 50px cyan,
-        0 0 100px cyan, 0 0 200px cyan;
+        0 0 10px cyan, 0 0 10px cyan,
+        0 0 10px cyan, 0 0 10px cyan;
 }
 
 
