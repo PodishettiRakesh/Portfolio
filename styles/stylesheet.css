@@ -190,13 +190,18 @@ body {
 }
 
 .about-img img{
-    padding-bottom: 20%;
-    max-width: 600px;
+    padding-bottom: 10%;
+    max-width: 700px;
     height: auto;
     width: 250%;
     border-radius: 8px;
-    margin: 0 auto; 
+    margin-top: 60px;
+    margin-left: 30px;
 
+}
+
+.about-text{
+    margin-right: 30px;
 }
 
 .about-text h2{
