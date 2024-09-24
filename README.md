@@ -12,6 +12,6 @@ This is a static portfolio website hosted on GitHub Pages.
 - `images/`: Contains images used in the website.
   - `bike.jpg`, `coat.png`, `poker.jpg`, `weather.png`: Example images.
 
-## How to View
+## please view my portfolio and feel free to connect if intrested.
 
 You can view the website by navigating to `https://podishettirakesh.github.io/Portfolio/`.
